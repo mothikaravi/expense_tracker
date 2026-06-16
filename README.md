@@ -17,7 +17,7 @@ A Flutter-based smart expense tracking application with AI-powered receipt scann
 
 ## 🤖 AI Features
 
-- Scan receipts using camera/gallery
+- Scan receipts using gallery
 - Extract merchant, amount, date automatically
 - AI-generated spending summaries
 - Smart categorization of expenses
@@ -28,7 +28,7 @@ A Flutter-based smart expense tracking application with AI-powered receipt scann
 
 - Flutter
 - Dart
-- BLoC / Cubit
+- BLoC 
 - SQLite (Local DB)
 - Google Gemini API
 - Image Picker
