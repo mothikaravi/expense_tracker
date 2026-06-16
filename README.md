@@ -3,6 +3,13 @@
 A Flutter-based smart expense tracking application with AI-powered receipt scanning and spending insights.
 
 ---
+# 💰 Expense Tracker with AI Receipt Scanning & Insights
+
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
+![BLoC](https://img.shields.io/badge/State%20Management-BLoC-orange)
+![SQLite](https://img.shields.io/badge/Database-SQLite-green)
+![AI](https://img.shields.io/badge/AI-Gemini%20API-purple)
 
 ## 🚀 Features
 
@@ -14,6 +21,20 @@ A Flutter-based smart expense tracking application with AI-powered receipt scann
 - Offline local database support
 
 ---
+
+## 📸 Screenshots
+
+### 📊 Dashboard
+![Dashboard](https://via.placeholder.com/400x800.png?text=Dashboard+Screen)
+
+### ➕ Add Expense
+![Add Expense](https://via.placeholder.com/400x800.png?text=Add+Expense)
+
+### 📷 Receipt Scanner
+![Scanner](https://via.placeholder.com/400x800.png?text=Receipt+Scanner)
+
+### 🤖 AI Insights
+![Insights](https://via.placeholder.com/400x800.png?text=AI+Insights)
 
 ## 🤖 AI Features
 
