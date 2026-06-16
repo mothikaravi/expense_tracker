@@ -1,16 +1,74 @@
-# expense_tracker
+# 💰 Expense Tracker with AI Receipt Scanning & Insights
 
-A new Flutter project.
+A Flutter-based smart expense tracking application with AI-powered receipt scanning and spending insights.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add / edit / delete expenses
+- Categorize spending
+- AI receipt scanning using Gemini API
+- Automatic expense extraction from images
+- Spending insights and analytics
+- Offline local database support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🤖 AI Features
+
+- Scan receipts using camera/gallery
+- Extract merchant, amount, date automatically
+- AI-generated spending summaries
+- Smart categorization of expenses
+
+---
+
+## 🏗️ Tech Stack
+
+- Flutter
+- Dart
+- BLoC / Cubit
+- SQLite (Local DB)
+- Google Gemini API
+- Image Picker
+
+---
+
+## 📱 App Modules
+
+- Dashboard
+- Add Expense
+- Expense List
+- Edit Expense
+- Receipt Scanner
+- AI Insights Screen
+- Review Screen
+
+---
+
+## 📂 Project Structure
+
+lib/
+├── core/
+│   ├── database/
+│   ├── services/
+│   ├── theme/
+│   └── utils/
+│
+├── features/
+│   └── expense/
+│       ├── data/
+│       ├── presentation/
+│       │   ├── bloc/
+│       │   └── screens/
+│
+├── main.dart
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone repo
+```bash
+git clone https://github.com/your-username/expense_tracker.git
